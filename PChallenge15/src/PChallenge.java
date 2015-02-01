@@ -1,3 +1,5 @@
+//OK. Ozgur Aktunc
+
 //Neli Romero
 //EG 1305-Spring 2015
 //Programming Challenge 15
