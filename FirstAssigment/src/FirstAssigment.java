@@ -1,7 +1,7 @@
 //Neli Romero
 //EG 1305-Spring 2015
 // Assigment 1
-
+//OK
 import java.text.DecimalFormat;
 
 
