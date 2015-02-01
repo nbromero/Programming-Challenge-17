@@ -22,6 +22,8 @@ public class StockTransaction {
 		int sold = 1000;
 		double sold_for = 33.92;
 		double profit = sold * sold_for; //total he gained from selling the stock
+		//This is not correct. This gives how much he sold the stocks for, not the profit
+		
 		double second_commission = profit*COMMISSION_RATE; //how much he paid the stockbroker again
 		DecimalFormat c = new DecimalFormat("##.##");
 		String sc = c.format(second_commission);
