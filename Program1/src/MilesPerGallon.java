@@ -1,3 +1,5 @@
+//Try to define your variables more descriptive, miles instead of m. O.Aktunc
+
 //Neli Romero
 //EG 1305-Spring 2015
 // Program 1
